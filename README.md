@@ -1,4 +1,4 @@
-# mxc
+# mxc 仿照妙小程写VUE项目
 
 > A Vue.js project
 
